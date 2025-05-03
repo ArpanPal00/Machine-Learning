@@ -1,0 +1,11 @@
+StudentID,FirstName,LastName,Age,Grade,Email
+1001,John,Doe,20,A,john.doe@example.com
+1002,Jane,Smith,22,B,jane.smith@example.com
+1003,Emily,Jones,21,C,emily.jones@example.com
+1004,Michael,Brown,23,B+,michael.brown@example.com
+1005,Liam,Johnson,20,A-,liam.johnson@example.com
+1006,Ava,Martinez,22,B,jane.martinez@example.com
+1007,Noah,Garcia,21,A,noah.garcia@example.com
+1008,Isabella,Wilson,20,C+,isabella.wilson@example.com
+1009,Oliver,Lee,23,B,oliver.lee@example.com
+1010,Charlotte,Kim,21,A+,charlotte.kim@example.com
